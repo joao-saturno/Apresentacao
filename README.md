@@ -17,7 +17,8 @@ Sou um Estudante de Análise e Desenvolvimento de Sistemas, Atualmente Desenvolv
 ### 📫 Como me encontrar
 
 
-[![LinkedIn](https://www.linkedin.com/in/joãosaturno)
+João Batista Saturno, {Linkedin}(https://www.linkedin.com/in/joãosaturno)
+
 
 [![Instagram] (https://www.instagram.com/joao_zst/).
 
